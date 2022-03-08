@@ -3,4 +3,4 @@ defaultPackage: tech.iooo.coco
 testFramework: junit
 sourceLanguage: kotlin
 buildTool: gradle_kotlin
-features: [annotation-api, app-name, gradle, http-client, jackson-databind, junit, kotlin, kotlin-build, kotlin-extension-functions, ktor, logback, micronaut-build, reactor, reactor-http-client, readme, shade, yaml]
+features: [ annotation-api, app-name, gradle, http-client, jackson-databind, junit, kotlin, kotlin-build, kotlin-extension-functions, ktor, logback, micronaut-build, reactor, reactor-http-client, readme, shade, yaml ]

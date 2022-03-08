@@ -1,2 +1,1 @@
-
-rootProject.name="coco-micronaut-booster"
+rootProject.name = "coco-micronaut-booster"
